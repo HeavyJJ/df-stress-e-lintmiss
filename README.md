@@ -1,2 +1,2 @@
 # df-stress-e-lintmiss
-Final-build v34 (1fb0979) P3 cap-trip (night 18).
+Final-build v35 (307bd25) retrigger (night 26).
